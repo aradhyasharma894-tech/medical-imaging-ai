@@ -110,15 +110,6 @@ The project demonstrates that transfer learning is highly effective for medical 
 
 ---
 
-##  Tech Stack
-
-* Python
-* PyTorch
-* Torchvision
-* Matplotlib
-* Scikit-learn
-
----
 
 ##  Author
 
